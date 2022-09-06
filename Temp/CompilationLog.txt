@@ -1,0 +1,112 @@
+# Starting compiling UnityEngine.UI.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-802611bebea0c714ebc5e21992ea6c73
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a0f4b5404eada2a4b98e880710395d88
+# Starting IL post processing on UnityEngine.TestRunner.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-b6ea65d78da0d394d86fb42ad343b2fd
+# Starting IL post processing on UnityEngine.UI.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-a1f33f77fc8b6fd4795aab94bfda6917
+# Starting compiling Unity.Properties.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e86be277fb664984285577628c40d599
+# Starting compiling Unity.PerformanceTesting.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5c1119ed87a225d41867ba3287704623
+# Starting compiling Unity.Platforms.Common.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-377968386c149004b899bfd400ee08ca
+# Starting compiling Unity.Timeline.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ec189156cd287f54095b1f86d3a2509b
+# Starting compiling Unity.TextMeshPro.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e71f8bd5f5ff62c4dbb4f85881961fe9
+# Starting compiling Unity.InternalAPIEngineBridge.012.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ff028580bb32cb447bb68f05712b0639
+# Starting IL post processing on Unity.PerformanceTesting.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-ff014ac19865bb440b28fc96b846be04
+# Starting IL post processing on Unity.Platforms.Common.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-c654c626aa93510479e162994cbb9a8b
+# Starting compiling Unity.Mathematics.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0d124592d2e9dfd4bb3ba792a167db31
+# Starting IL post processing on Unity.Properties.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-fc501eac279748e45a04aba1c70c3999
+# Starting IL post processing on Unity.Timeline.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-fa9eefa19b935c348bb4bb27e6176561
+# Starting compiling Unity.Properties.Reflection.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-41c8b175639fb2d46aa94773baeefaa1
+# Starting IL post processing on Unity.InternalAPIEngineBridge.012.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-45a2c9d0e13dedb429dbbabb8f77d82f
+# Starting compiling Unity.Burst.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ba26053424300994aa7f7137b2b69348
+# Starting compiling Unity.Properties.UI.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-841b136c0e1e7874a9f51be46442bdf7
+# Starting compiling Unity.ScriptableBuildPipeline.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-912cb43479e91374493185aa20468838
+# Starting IL post processing on Unity.TextMeshPro.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-2309680134841ea4688258eb71c718cf
+# Starting IL post processing on Unity.Properties.Reflection.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-9ab8dc3411dac19429fc85c57c2e7ebd
+# Starting compiling Unity.Collections.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a456c0911d12c4b4684e62d244bdd20f
+# Starting compiling Unity.Jobs.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-35a1717e57c6fd84bbea1a726c27c05e
+# Starting IL post processing on Unity.Properties.UI.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-7b6d694c31493494c9d352ef0c8c10b4
+# Starting IL post processing on Unity.Burst.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-6bb61eb026dd9154ea6f6854a8eb01a1
+# Starting IL post processing on Unity.ScriptableBuildPipeline.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-bac13afd7718d54438ec15071382dc7a
+# Starting IL post processing on Unity.Mathematics.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-328bbce5c8d0e5948b4caf240120ba9a
+# Starting IL post processing on Unity.Collections.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-89c1c5b2530e0c54fa3ab285c2c470d8
+# Starting IL post processing on Unity.Jobs.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-395fc062876cb214583235aeb7639dcf
+# Starting compiling Unity.Serialization.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b478087c6bc8fdb4998be634a86c0f58
+# Starting compiling Unity.Mathematics.Extensions.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b00eb52e2c515764994ede5021d4ff03
+# Starting IL post processing on Unity.Mathematics.Extensions.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-98108a4b8626dc440b484cd26ad3f8ee
+# Starting compiling Unity.Mathematics.Extensions.Hybrid.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7c9a972607bfdd446bb029e5680e37c0
+# Starting IL post processing on Unity.Serialization.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-c49b639babcc941409afd453ec75e2f5
+# Starting compiling Unity.Entities.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e0f258f74ebdbc342b7c328e40fa02b1
+# Starting IL post processing on Unity.Mathematics.Extensions.Hybrid.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-9aeae2eb7d9f3884d8b7f1a5f06e1947
+# Starting compiling Unity.Transforms.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5801f5d1ea561d44ebcd647c09121738
+# Starting compiling Unity.Scenes.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5ecc67a3baae68744af5b1b03794cdf1
+# Starting compiling Unity.Physics.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b3e1ef82f67a8ef479cd3ed074034bc5
+# Starting compiling Unity.Deformations.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cff1f470f4732d8418c5a04a87f7a61e
+# Starting compiling Unity.Entities.Hybrid.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0baa44d7e341cba45a8cba6992eac99e
+# Starting IL post processing on Unity.Entities.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-4160d303dd5db7248bfe1879c0a62df8
+# Starting IL post processing on Unity.Transforms.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-6dc7e574a3fe9b649a899f4180edd130
+# Starting IL post processing on Unity.Deformations.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-f62431ed9a41a694493ea87b3d90159a
+# Starting IL post processing on Unity.Scenes.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-a6d16d6f8ece399449864cf48960fa9a
+# Starting IL post processing on Unity.Physics.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-be8a67178434ac14ba116432164b321b
+# Starting IL post processing on Unity.Entities.Hybrid.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-c24054f7b968e914188f57e24bb9a967
+# Starting compiling Unity.Transforms.Hybrid.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9784997f83f05ee40a120b92a77c51de
+# Starting compiling Unity.Physics.Hybrid.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-afab047367cc3b94bae80f348e713a24
+# Starting IL post processing on Unity.Transforms.Hybrid.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-4bd9cf02d13fef64295a708073415629
+# Starting compiling Unity.Rendering.Hybrid.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d6e2fdd9e3093e74381eb9b34b1b588a
+# Starting IL post processing on Unity.Physics.Hybrid.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-ee455af33466c6040ac2fd9a1a77495e
+# Starting compiling Assembly-CSharp.dll
+D:\Unity2019\Unity2020.3.12\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3331e1d78bcde2449964272be49b42fb
+# Starting IL post processing on Unity.Rendering.Hybrid.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-f2476339d6e804a4e9ac3034facf58f2
+# Starting IL post processing on Assembly-CSharp.dll
+D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity2019/Unity2020.3.12/Unity/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @G:/project/ECSAttack/Temp/UnityTempFile-638d3664bb7bfea4e9f1e5043914f299
